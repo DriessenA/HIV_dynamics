@@ -1,0 +1,2 @@
+# HIV_dynamics
+Investigating slow CD4+ T cell depletion during chronic HIV infection. ODE model of memory CD4+ T cell population during HIV infection in which infection occurs upon cellular division through an infection chance. This project was performed at Utrecht University under supervision of Prof. Rob de Boer, department Theoretical Biology and Bioinformatics. This project was an internship of the master Bioinformatics and Systems Biology at the Vrije Universitieit  and University of Amsterdam.
